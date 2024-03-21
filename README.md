@@ -24,3 +24,9 @@
   - Finally, I will keep explore this project on the future, maybe using job scheduler, API call or 
     integrate it with background service, so be ready 😎
 
+- This an image of how the queue message stored in SQlite (goqite) table
+  - <br/> <img src="./screenshots/queue_in_goqite_table.png">
+- This an image of how to queue message consumed 
+  - <img src="./screenshots/queue_message_that_consumed.png">
+
+
